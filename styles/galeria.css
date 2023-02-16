@@ -1,0 +1,15 @@
+.grid-galeria{
+    
+    width: 50%;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    
+}
+
+.thumbnail{
+    
+    width: 100%;
+    
+}
